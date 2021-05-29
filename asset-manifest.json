@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dictionary/static/css/main.56c47357.chunk.css",
+    "main.js": "/dictionary/static/js/main.4229b60d.chunk.js",
+    "main.js.map": "/dictionary/static/js/main.4229b60d.chunk.js.map",
+    "runtime-main.js": "/dictionary/static/js/runtime-main.48f86c9b.js",
+    "runtime-main.js.map": "/dictionary/static/js/runtime-main.48f86c9b.js.map",
+    "static/js/2.4c786032.chunk.js": "/dictionary/static/js/2.4c786032.chunk.js",
+    "static/js/2.4c786032.chunk.js.map": "/dictionary/static/js/2.4c786032.chunk.js.map",
+    "static/js/3.281f34ad.chunk.js": "/dictionary/static/js/3.281f34ad.chunk.js",
+    "static/js/3.281f34ad.chunk.js.map": "/dictionary/static/js/3.281f34ad.chunk.js.map",
+    "index.html": "/dictionary/index.html",
+    "static/css/main.56c47357.chunk.css.map": "/dictionary/static/css/main.56c47357.chunk.css.map",
+    "static/js/2.4c786032.chunk.js.LICENSE.txt": "/dictionary/static/js/2.4c786032.chunk.js.LICENSE.txt",
+    "static/media/books.a21016c1.webp": "/dictionary/static/media/books.a21016c1.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48f86c9b.js",
+    "static/js/2.4c786032.chunk.js",
+    "static/css/main.56c47357.chunk.css",
+    "static/js/main.4229b60d.chunk.js"
+  ]
+}
