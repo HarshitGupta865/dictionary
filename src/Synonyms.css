@@ -1,0 +1,7 @@
+.synonymList{
+    margin-top: 5px;
+    list-style: square;
+    display: flex;
+    justify-content: flex-start;
+    text-transform: capitalize;
+}

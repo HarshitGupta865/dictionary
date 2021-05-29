@@ -1,0 +1,33 @@
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search {
+  border-radius: 5px;
+  border: 1px solid #3c70a8;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+  outline: none;
+}
+
+.search:hover {
+  border: 1px solid #3c70a8;
+}
+
+.submit-btn {
+  background: transparent;
+  color: #3c70a8;
+  border: 1px solid #3c70a8;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 15px;
+  transition: all 0.5s;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+  outline: none;
+}
+
+.submit-btn:hover {
+  background-color: #3c70a8;
+  color: white;
+}

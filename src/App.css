@@ -1,0 +1,71 @@
+.App {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  margin: 0 1rem;
+}
+
+.container {
+  padding: 2rem 0 1rem 0;
+  border: 2px solid #3c70a8;
+  border-radius: 10px;
+}
+
+@media only screen and (min-width: 1300px) {
+  .container {
+    max-width: 1100px;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  .container {
+    max-width: 1000px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .container {
+    max-width: 700px;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .container {
+    max-width: 500px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .container {
+    max-width: 400px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .container {
+    max-width: 370px;
+  }
+}
+
+header {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  color: #3c70a8;
+}
+
+.Title {
+  text-decoration: underline;
+}
+
+.partOfSpeech {
+  text-transform: capitalize;
+  color: #3b6c74;
+}
+
+.Phonetics {
+  margin-left: 50px;
+  color: #e9ce2d;
+}
